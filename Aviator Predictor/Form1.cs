@@ -9,7 +9,6 @@ namespace Aviator_Hack
 {
     public partial class Form1 : Form
     {
-
         private const int WM_NCLBUTTONDOWN = 0xA1;
         private const int HT_CAPTION = 0x2;
         /*private string connectionString = "Server=your_server;Database=your_database;User Id=your_username;Password=your_password;";*/
